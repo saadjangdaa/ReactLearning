@@ -1,3 +1,3 @@
 Day 1
-- Learning the basics
-- with some figma desings
+- Learning the basics with REACTDOM 
+- with some figma designs
