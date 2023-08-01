@@ -5,4 +5,8 @@ Day 1
 - with some figma designs
 - 
 Day 2
-- learned about some stylings with figma designs
+- learned about some stylings with Figma designs
+
+Day 3
+- learned how to customize components and use them accordingly
+
