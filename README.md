@@ -10,6 +10,6 @@ Day 2
 Day 3
 - learned how to customize components and use them accordingly
 
-Day 4 
+Day 4 to Day 10
 - Building an airbnb clone
 
