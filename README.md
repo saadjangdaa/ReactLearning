@@ -13,3 +13,7 @@ Day 3
 Day 4 to Day 10
 - Building an airbnb clone
 
+Day 11 
+- learning about redux
+- 
+
